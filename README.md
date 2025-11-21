@@ -21,7 +21,7 @@ You'll need Node.js 18 or newer installed on your machine.
 
 1. Go to the project folder:
 ```bash
-cd Dev_Yash_Dixit_TaskA/search-interface
+cd Dev_Yash_Dixit_TaskA
 ```
 
 2. Install dependencies:
